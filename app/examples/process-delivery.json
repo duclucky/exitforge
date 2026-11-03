@@ -1,0 +1,573 @@
+{
+  "schema_version": 1,
+  "id": "391663bc297d53e79990",
+  "name": "Northstar delivery desk",
+  "pages": [
+    {
+      "id": "1f985c887d53cb185ef2f52c41760fa6",
+      "title": "Continuity note",
+      "body": "# Continuity note\n\nThis is a fictional workspace. The screenshots show selected actions, not all original automations. External notifications, permissions and behavior for projects without items are not established by the export.\n",
+      "source": "Continuity note.md",
+      "database": null,
+      "properties": {},
+      "links": [],
+      "relations": [],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "f6033032f91927fbf4b509e514f1b489",
+      "title": "Homepage",
+      "body": "# Homepage\n\n[Parent project](../Projects e1afc8e474000687e3ee96c19bef8295/Website refresh 9d9ee00743815ad729f762f845f50e98.md)\n\nOriginal synthetic deliverable for workflow reconstruction.\n",
+      "source": "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Homepage f6033032f91927fbf4b509e514f1b489.md",
+      "database": "51206b9ba9c57f2a3e2b79e2df8bdc0f",
+      "properties": {
+        "Name": "Homepage",
+        "Review outcome": "Changes requested",
+        "Project": "Website refresh"
+      },
+      "links": [
+        {
+          "label": "Parent project",
+          "href": "../Projects e1afc8e474000687e3ee96c19bef8295/Website refresh 9d9ee00743815ad729f762f845f50e98.md",
+          "target": "9d9ee00743815ad729f762f845f50e98",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Project",
+          "target": "9d9ee00743815ad729f762f845f50e98",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "1d8ab175f13dc94231696c6cc088ee53",
+      "title": "Logo pack",
+      "body": "# Logo pack\n\n[Parent project](../Projects e1afc8e474000687e3ee96c19bef8295/Brand launch f4b47104502ede811f067231c9bee2f7.md)\n\nOriginal synthetic deliverable for workflow reconstruction.\n",
+      "source": "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Logo pack 1d8ab175f13dc94231696c6cc088ee53.md",
+      "database": "51206b9ba9c57f2a3e2b79e2df8bdc0f",
+      "properties": {
+        "Name": "Logo pack",
+        "Review outcome": "Draft",
+        "Project": "Brand launch"
+      },
+      "links": [
+        {
+          "label": "Parent project",
+          "href": "../Projects e1afc8e474000687e3ee96c19bef8295/Brand launch f4b47104502ede811f067231c9bee2f7.md",
+          "target": "f4b47104502ede811f067231c9bee2f7",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Project",
+          "target": "f4b47104502ede811f067231c9bee2f7",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "1c1b95e2530d126570a3f9c47d9bdec6",
+      "title": "Reference assets",
+      "body": "# Reference assets\n\n[Parent project](../Projects e1afc8e474000687e3ee96c19bef8295/Reference project b77b727d4d9f879c9e4b4687b453a48d.md)\n\nOriginal synthetic deliverable for workflow reconstruction.\n",
+      "source": "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Reference assets 1c1b95e2530d126570a3f9c47d9bdec6.md",
+      "database": "51206b9ba9c57f2a3e2b79e2df8bdc0f",
+      "properties": {
+        "Name": "Reference assets",
+        "Review outcome": "Approved",
+        "Project": "Reference project"
+      },
+      "links": [
+        {
+          "label": "Parent project",
+          "href": "../Projects e1afc8e474000687e3ee96c19bef8295/Reference project b77b727d4d9f879c9e4b4687b453a48d.md",
+          "target": "b77b727d4d9f879c9e4b4687b453a48d",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Project",
+          "target": "b77b727d4d9f879c9e4b4687b453a48d",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "eaec47e25d19a97631077cfdc93120d7",
+      "title": "Usage guide",
+      "body": "# Usage guide\n\n[Parent project](../Projects e1afc8e474000687e3ee96c19bef8295/Brand launch f4b47104502ede811f067231c9bee2f7.md)\n\nOriginal synthetic deliverable for workflow reconstruction.\n",
+      "source": "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Usage guide eaec47e25d19a97631077cfdc93120d7.md",
+      "database": "51206b9ba9c57f2a3e2b79e2df8bdc0f",
+      "properties": {
+        "Name": "Usage guide",
+        "Review outcome": "Approved",
+        "Project": "Brand launch"
+      },
+      "links": [
+        {
+          "label": "Parent project",
+          "href": "../Projects e1afc8e474000687e3ee96c19bef8295/Brand launch f4b47104502ede811f067231c9bee2f7.md",
+          "target": "f4b47104502ede811f067231c9bee2f7",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Project",
+          "target": "f4b47104502ede811f067231c9bee2f7",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "f4b47104502ede811f067231c9bee2f7",
+      "title": "Brand launch",
+      "body": "# Brand launch\n\nAuthorized synthetic working record.\n\n[Handoff note](../handoff-note.txt)\n",
+      "source": "Projects e1afc8e474000687e3ee96c19bef8295/Brand launch f4b47104502ede811f067231c9bee2f7.md",
+      "database": "e1afc8e474000687e3ee96c19bef8295",
+      "properties": {
+        "Name": "Brand launch",
+        "Project phase": "In progress",
+        "Client": "Northstar Studio"
+      },
+      "links": [],
+      "relations": [],
+      "attachments": [
+        "a8698a8c79fe43bbba7c"
+      ],
+      "checklist": []
+    },
+    {
+      "id": "b77b727d4d9f879c9e4b4687b453a48d",
+      "title": "Reference project",
+      "body": "# Reference project\n\nAuthorized synthetic working record.\n\n[Handoff note](../handoff-note.txt)\n",
+      "source": "Projects e1afc8e474000687e3ee96c19bef8295/Reference project b77b727d4d9f879c9e4b4687b453a48d.md",
+      "database": "e1afc8e474000687e3ee96c19bef8295",
+      "properties": {
+        "Name": "Reference project",
+        "Project phase": "Delivered",
+        "Client": "Lumen Collective"
+      },
+      "links": [],
+      "relations": [],
+      "attachments": [
+        "a8698a8c79fe43bbba7c"
+      ],
+      "checklist": []
+    },
+    {
+      "id": "9d9ee00743815ad729f762f845f50e98",
+      "title": "Website refresh",
+      "body": "# Website refresh\n\nAuthorized synthetic working record.\n\n[Handoff note](../handoff-note.txt)\n",
+      "source": "Projects e1afc8e474000687e3ee96c19bef8295/Website refresh 9d9ee00743815ad729f762f845f50e98.md",
+      "database": "e1afc8e474000687e3ee96c19bef8295",
+      "properties": {
+        "Name": "Website refresh",
+        "Project phase": "Changes requested",
+        "Client": "Cedar & Co"
+      },
+      "links": [],
+      "relations": [],
+      "attachments": [
+        "a8698a8c79fe43bbba7c"
+      ],
+      "checklist": []
+    }
+  ],
+  "databases": [
+    {
+      "id": "51206b9ba9c57f2a3e2b79e2df8bdc0f",
+      "title": "Deliverables",
+      "source": "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f.csv",
+      "fields": [
+        "Name",
+        "Review outcome",
+        "Project"
+      ],
+      "rows": [
+        "1d8ab175f13dc94231696c6cc088ee53",
+        "eaec47e25d19a97631077cfdc93120d7",
+        "f6033032f91927fbf4b509e514f1b489",
+        "1c1b95e2530d126570a3f9c47d9bdec6"
+      ]
+    },
+    {
+      "id": "e1afc8e474000687e3ee96c19bef8295",
+      "title": "Projects",
+      "source": "Projects e1afc8e474000687e3ee96c19bef8295.csv",
+      "fields": [
+        "Name",
+        "Project phase",
+        "Client"
+      ],
+      "rows": [
+        "f4b47104502ede811f067231c9bee2f7",
+        "9d9ee00743815ad729f762f845f50e98",
+        "b77b727d4d9f879c9e4b4687b453a48d"
+      ]
+    }
+  ],
+  "assets": {
+    "a8698a8c79fe43bbba7c": {
+      "id": "a8698a8c79fe43bbba7c",
+      "name": "handoff-note.txt",
+      "source": "handoff-note.txt",
+      "size": 69,
+      "mime": "text/plain",
+      "data": "UHVycG9zZS1jcmVhdGVkIGhhbmRvZmYgY29udGV4dC4gUHJvZHVjdGlvbiBhcnR3b3JrIGlzIG5vdCBpbmNsdWRlZC4K"
+    }
+  },
+  "warnings": [
+    "Views, formulas, permissions and automations are not established by this export. Review workflow rules explicitly."
+  ],
+  "workflow": {
+    "field": "",
+    "states": [],
+    "delivery_state": "",
+    "require_checklist": true,
+    "followup": "",
+    "confirmed": false,
+    "basis": "Not recovered: requires an explicit user declaration"
+  },
+  "tasks": [],
+  "activity": [],
+  "provenance": {
+    "mode": "local-parser",
+    "source": "authorized-synthetic-export.zip",
+    "sample": true,
+    "imported_at": "2026-11-03T02:21:52.382563+00:00",
+    "cloud_calls": [
+      {
+        "provider": "Baseten",
+        "model": "meta-models/muse-spark-open-1026",
+        "operation": "reconstruct_linked_process",
+        "elapsed_ms": 10927,
+        "usage": {
+          "prompt_tokens": 7138,
+          "completion_tokens": 550,
+          "total_tokens": 7688,
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+          },
+          "completion_tokens_details": {
+            "accepted_prediction_tokens": 345,
+            "audio_tokens": 0,
+            "reasoning_tokens": 193,
+            "rejected_prediction_tokens": 1090
+          }
+        }
+      }
+    ],
+    "source_files": 11,
+    "parser_workflow": {
+      "field": "",
+      "states": [],
+      "delivery_state": ""
+    },
+    "recorded_example": {
+      "date": "2026-11-03",
+      "provider": "Baseten",
+      "model": "meta-models/muse-spark-open-1026",
+      "new_live_calls_on_open": 0,
+      "source": "Actual verified response on a synthetic workspace; source graph is deterministic"
+    }
+  },
+  "process": {
+    "version": 1,
+    "name": "Northstar delivery desk",
+    "parent_field": "Project phase",
+    "child_field": "Review outcome",
+    "actions": [
+      {
+        "id": "approve",
+        "kind": "approve_child",
+        "label": "Approve item",
+        "to": "Approved",
+        "evidence_sources": [
+          "frame-3.png"
+        ]
+      },
+      {
+        "id": "revise",
+        "kind": "request_changes",
+        "label": "Request changes",
+        "to": "Changes requested",
+        "parent_to": "Changes requested",
+        "evidence_sources": [
+          "frame-2.png"
+        ]
+      },
+      {
+        "id": "handover",
+        "kind": "handover_parent",
+        "label": "Hand over",
+        "to": "Delivered",
+        "approved_state": "Approved",
+        "task": "Confirm {client} received {project}.",
+        "evidence_sources": [
+          "frame-1.png",
+          "frame-4.png"
+        ]
+      }
+    ],
+    "evidence_sources": [
+      "Projects e1afc8e474000687e3ee96c19bef8295/Brand launch f4b47104502ede811f067231c9bee2f7.md",
+      "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Logo pack 1d8ab175f13dc94231696c6cc088ee53.md",
+      "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Usage guide eaec47e25d19a97631077cfdc93120d7.md",
+      "frame-1.png",
+      "frame-2.png",
+      "frame-3.png",
+      "frame-4.png"
+    ],
+    "unknowns": [
+      "Missing permissions, notifications and unseen branches remain unknown.",
+      "Whether zero linked children remains blocked is not observed in the selected workflow."
+    ],
+    "parent_db": "e1afc8e474000687e3ee96c19bef8295",
+    "child_db": "51206b9ba9c57f2a3e2b79e2df8bdc0f",
+    "links": [
+      {
+        "child": "1d8ab175f13dc94231696c6cc088ee53",
+        "parent": "f4b47104502ede811f067231c9bee2f7"
+      },
+      {
+        "child": "eaec47e25d19a97631077cfdc93120d7",
+        "parent": "f4b47104502ede811f067231c9bee2f7"
+      },
+      {
+        "child": "f6033032f91927fbf4b509e514f1b489",
+        "parent": "9d9ee00743815ad729f762f845f50e98"
+      },
+      {
+        "child": "1c1b95e2530d126570a3f9c47d9bdec6",
+        "parent": "b77b727d4d9f879c9e4b4687b453a48d"
+      }
+    ],
+    "parent_states": [
+      "In progress",
+      "Changes requested",
+      "Delivered"
+    ],
+    "child_states": [
+      "Draft",
+      "Approved",
+      "Changes requested"
+    ],
+    "confirmed": false,
+    "parent_revision": null
+  },
+  "process_review": {
+    "proposal": {
+      "version": 1,
+      "name": "Northstar delivery desk",
+      "parent_field": "Project phase",
+      "child_field": "Review outcome",
+      "actions": [
+        {
+          "id": "approve",
+          "kind": "approve_child",
+          "label": "Approve item",
+          "to": "Approved",
+          "evidence_sources": [
+            "frame-3.png"
+          ]
+        },
+        {
+          "id": "revise",
+          "kind": "request_changes",
+          "label": "Request changes",
+          "to": "Changes requested",
+          "parent_to": "Changes requested",
+          "evidence_sources": [
+            "frame-2.png"
+          ]
+        },
+        {
+          "id": "handover",
+          "kind": "handover_parent",
+          "label": "Hand over",
+          "to": "Delivered",
+          "approved_state": "Approved",
+          "task": "Confirm {client} received {project}.",
+          "evidence_sources": [
+            "frame-1.png",
+            "frame-4.png"
+          ]
+        }
+      ],
+      "evidence_sources": [
+        "Projects e1afc8e474000687e3ee96c19bef8295/Brand launch f4b47104502ede811f067231c9bee2f7.md",
+        "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Logo pack 1d8ab175f13dc94231696c6cc088ee53.md",
+        "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Usage guide eaec47e25d19a97631077cfdc93120d7.md",
+        "frame-1.png",
+        "frame-2.png",
+        "frame-3.png",
+        "frame-4.png"
+      ],
+      "unknowns": [
+        "Missing permissions, notifications and unseen branches remain unknown.",
+        "Whether zero linked children remains blocked is not observed in the selected workflow."
+      ],
+      "parent_db": "e1afc8e474000687e3ee96c19bef8295",
+      "child_db": "51206b9ba9c57f2a3e2b79e2df8bdc0f",
+      "links": [
+        {
+          "child": "1d8ab175f13dc94231696c6cc088ee53",
+          "parent": "f4b47104502ede811f067231c9bee2f7"
+        },
+        {
+          "child": "eaec47e25d19a97631077cfdc93120d7",
+          "parent": "f4b47104502ede811f067231c9bee2f7"
+        },
+        {
+          "child": "f6033032f91927fbf4b509e514f1b489",
+          "parent": "9d9ee00743815ad729f762f845f50e98"
+        },
+        {
+          "child": "1c1b95e2530d126570a3f9c47d9bdec6",
+          "parent": "b77b727d4d9f879c9e4b4687b453a48d"
+        }
+      ],
+      "parent_states": [
+        "In progress",
+        "Changes requested",
+        "Delivered"
+      ],
+      "child_states": [
+        "Draft",
+        "Approved",
+        "Changes requested"
+      ],
+      "confirmed": false,
+      "parent_revision": null
+    },
+    "model_proposal": {
+      "version": 1,
+      "name": "Northstar delivery desk",
+      "binding_id": "binding-a3afdc9d98b2d9a5",
+      "parent_field": "Project phase",
+      "child_field": "Review outcome",
+      "actions": [
+        {
+          "id": "approve",
+          "kind": "approve_child",
+          "label": "Approve item",
+          "to": "Approved",
+          "evidence_sources": [
+            "frame-3.png"
+          ]
+        },
+        {
+          "id": "revise",
+          "kind": "request_changes",
+          "label": "Request changes",
+          "to": "Changes requested",
+          "parent_to": "Changes requested",
+          "evidence_sources": [
+            "frame-2.png"
+          ]
+        },
+        {
+          "id": "handover",
+          "kind": "handover_parent",
+          "label": "Hand over",
+          "to": "Delivered",
+          "approved_state": "Approved",
+          "task": "Confirm {client} received {project}.",
+          "evidence_sources": [
+            "frame-1.png",
+            "frame-4.png"
+          ]
+        }
+      ],
+      "evidence_sources": [
+        "Projects e1afc8e474000687e3ee96c19bef8295/Brand launch f4b47104502ede811f067231c9bee2f7.md",
+        "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Logo pack 1d8ab175f13dc94231696c6cc088ee53.md",
+        "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Usage guide eaec47e25d19a97631077cfdc93120d7.md",
+        "frame-1.png",
+        "frame-2.png",
+        "frame-3.png",
+        "frame-4.png"
+      ],
+      "unknowns": [
+        "Missing permissions, notifications and unseen branches remain unknown.",
+        "Whether zero linked children remains blocked is not observed in the selected workflow."
+      ]
+    },
+    "binding_resolution": {
+      "method": "explicit_source_links",
+      "binding_id": "binding-a3afdc9d98b2d9a5",
+      "relationship_count": 4,
+      "graph_sha256": "aa85f65b0fb0e3a7ae631875cc95d43538398bfe9e57515029ef02c25d7db042",
+      "model_supplied_link_count": null,
+      "completed_omitted_links": 0
+    },
+    "observations": [
+      {
+        "id": "frame-1.png",
+        "sha256": "a46bbca29a6af954eda4b67ca67d31bed03d9f4a652b4573194a106dff66ebc8",
+        "preview": "/process-example/delivery/frame-1.png"
+      },
+      {
+        "id": "frame-2.png",
+        "sha256": "bcaa3a7f05d9e3db065f842e396472b3407f629858c2a72a8bf0acc6d1255076",
+        "preview": "/process-example/delivery/frame-2.png"
+      },
+      {
+        "id": "frame-3.png",
+        "sha256": "d30e5a59b7f58ea2a7195c43b1e721b2e313c098a7fa28bcd855148061827b21",
+        "preview": "/process-example/delivery/frame-3.png"
+      },
+      {
+        "id": "frame-4.png",
+        "sha256": "5356a97acd7ad000924ac2be9962ab52ca3f6059b42057712fb5c5b056d4c693",
+        "preview": "/process-example/delivery/frame-4.png"
+      }
+    ],
+    "calls": [
+      {
+        "provider": "Baseten",
+        "model": "meta-models/muse-spark-open-1026",
+        "operation": "reconstruct_linked_process",
+        "elapsed_ms": 10927,
+        "usage": {
+          "prompt_tokens": 7138,
+          "completion_tokens": 550,
+          "total_tokens": 7688,
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+          },
+          "completion_tokens_details": {
+            "accepted_prediction_tokens": 345,
+            "audio_tokens": 0,
+            "reasoning_tokens": 193,
+            "rejected_prediction_tokens": 1090
+          }
+        }
+      }
+    ],
+    "question": "When one item needs changes, should its parent move to a revision stage or keep its current stage?",
+    "recorded": true,
+    "recorded_on": "2026-11-03",
+    "source": "Actual verified event-model response on a purpose-created synthetic workspace",
+    "requires_task_correction": false
+  }
+}

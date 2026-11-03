@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "id": "391663bc297d53e79990",
+  "name": "Northstar delivery desk",
+  "pages": [
+    {
+      "id": "1f985c887d53cb185ef2f52c41760fa6",
+      "title": "Continuity note",
+      "body": "# Continuity note\n\nThis is a fictional workspace. The screenshots show selected actions, not all original automations. External notifications, permissions and behavior for projects without items are not established by the export.\n",
+      "source": "Continuity note.md",
+      "database": null,
+      "properties": {},
+      "links": [],
+      "relations": [],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "f6033032f91927fbf4b509e514f1b489",
+      "title": "Homepage",
+      "body": "# Homepage\n\n[Parent project](../Projects e1afc8e474000687e3ee96c19bef8295/Website refresh 9d9ee00743815ad729f762f845f50e98.md)\n\nOriginal synthetic deliverable for workflow reconstruction.\n",
+      "source": "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Homepage f6033032f91927fbf4b509e514f1b489.md",
+      "database": "51206b9ba9c57f2a3e2b79e2df8bdc0f",
+      "properties": {
+        "Name": "Homepage",
+        "Review outcome": "Changes requested",
+        "Project": "Website refresh"
+      },
+      "links": [
+        {
+          "label": "Parent project",
+          "href": "../Projects e1afc8e474000687e3ee96c19bef8295/Website refresh 9d9ee00743815ad729f762f845f50e98.md",
+          "target": "9d9ee00743815ad729f762f845f50e98",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Project",
+          "target": "9d9ee00743815ad729f762f845f50e98",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "1d8ab175f13dc94231696c6cc088ee53",
+      "title": "Logo pack",
+      "body": "# Logo pack\n\n[Parent project](../Projects e1afc8e474000687e3ee96c19bef8295/Brand launch f4b47104502ede811f067231c9bee2f7.md)\n\nOriginal synthetic deliverable for workflow reconstruction.\n",
+      "source": "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Logo pack 1d8ab175f13dc94231696c6cc088ee53.md",
+      "database": "51206b9ba9c57f2a3e2b79e2df8bdc0f",
+      "properties": {
+        "Name": "Logo pack",
+        "Review outcome": "Draft",
+        "Project": "Brand launch"
+      },
+      "links": [
+        {
+          "label": "Parent project",
+          "href": "../Projects e1afc8e474000687e3ee96c19bef8295/Brand launch f4b47104502ede811f067231c9bee2f7.md",
+          "target": "f4b47104502ede811f067231c9bee2f7",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Project",
+          "target": "f4b47104502ede811f067231c9bee2f7",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "1c1b95e2530d126570a3f9c47d9bdec6",
+      "title": "Reference assets",
+      "body": "# Reference assets\n\n[Parent project](../Projects e1afc8e474000687e3ee96c19bef8295/Reference project b77b727d4d9f879c9e4b4687b453a48d.md)\n\nOriginal synthetic deliverable for workflow reconstruction.\n",
+      "source": "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Reference assets 1c1b95e2530d126570a3f9c47d9bdec6.md",
+      "database": "51206b9ba9c57f2a3e2b79e2df8bdc0f",
+      "properties": {
+        "Name": "Reference assets",
+        "Review outcome": "Approved",
+        "Project": "Reference project"
+      },
+      "links": [
+        {
+          "label": "Parent project",
+          "href": "../Projects e1afc8e474000687e3ee96c19bef8295/Reference project b77b727d4d9f879c9e4b4687b453a48d.md",
+          "target": "b77b727d4d9f879c9e4b4687b453a48d",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Project",
+          "target": "b77b727d4d9f879c9e4b4687b453a48d",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "eaec47e25d19a97631077cfdc93120d7",
+      "title": "Usage guide",
+      "body": "# Usage guide\n\n[Parent project](../Projects e1afc8e474000687e3ee96c19bef8295/Brand launch f4b47104502ede811f067231c9bee2f7.md)\n\nOriginal synthetic deliverable for workflow reconstruction.\n",
+      "source": "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f/Usage guide eaec47e25d19a97631077cfdc93120d7.md",
+      "database": "51206b9ba9c57f2a3e2b79e2df8bdc0f",
+      "properties": {
+        "Name": "Usage guide",
+        "Review outcome": "Approved",
+        "Project": "Brand launch"
+      },
+      "links": [
+        {
+          "label": "Parent project",
+          "href": "../Projects e1afc8e474000687e3ee96c19bef8295/Brand launch f4b47104502ede811f067231c9bee2f7.md",
+          "target": "f4b47104502ede811f067231c9bee2f7",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Project",
+          "target": "f4b47104502ede811f067231c9bee2f7",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "f4b47104502ede811f067231c9bee2f7",
+      "title": "Brand launch",
+      "body": "# Brand launch\n\nAuthorized synthetic working record.\n\n[Handoff note](../handoff-note.txt)\n",
+      "source": "Projects e1afc8e474000687e3ee96c19bef8295/Brand launch f4b47104502ede811f067231c9bee2f7.md",
+      "database": "e1afc8e474000687e3ee96c19bef8295",
+      "properties": {
+        "Name": "Brand launch",
+        "Project phase": "In progress",
+        "Client": "Northstar Studio"
+      },
+      "links": [],
+      "relations": [],
+      "attachments": [
+        "a8698a8c79fe43bbba7c"
+      ],
+      "checklist": []
+    },
+    {
+      "id": "b77b727d4d9f879c9e4b4687b453a48d",
+      "title": "Reference project",
+      "body": "# Reference project\n\nAuthorized synthetic working record.\n\n[Handoff note](../handoff-note.txt)\n",
+      "source": "Projects e1afc8e474000687e3ee96c19bef8295/Reference project b77b727d4d9f879c9e4b4687b453a48d.md",
+      "database": "e1afc8e474000687e3ee96c19bef8295",
+      "properties": {
+        "Name": "Reference project",
+        "Project phase": "Delivered",
+        "Client": "Lumen Collective"
+      },
+      "links": [],
+      "relations": [],
+      "attachments": [
+        "a8698a8c79fe43bbba7c"
+      ],
+      "checklist": []
+    },
+    {
+      "id": "9d9ee00743815ad729f762f845f50e98",
+      "title": "Website refresh",
+      "body": "# Website refresh\n\nAuthorized synthetic working record.\n\n[Handoff note](../handoff-note.txt)\n",
+      "source": "Projects e1afc8e474000687e3ee96c19bef8295/Website refresh 9d9ee00743815ad729f762f845f50e98.md",
+      "database": "e1afc8e474000687e3ee96c19bef8295",
+      "properties": {
+        "Name": "Website refresh",
+        "Project phase": "Changes requested",
+        "Client": "Cedar & Co"
+      },
+      "links": [],
+      "relations": [],
+      "attachments": [
+        "a8698a8c79fe43bbba7c"
+      ],
+      "checklist": []
+    }
+  ],
+  "databases": [
+    {
+      "id": "51206b9ba9c57f2a3e2b79e2df8bdc0f",
+      "title": "Deliverables",
+      "source": "Deliverables 51206b9ba9c57f2a3e2b79e2df8bdc0f.csv",
+      "fields": [
+        "Name",
+        "Review outcome",
+        "Project"
+      ],
+      "rows": [
+        "1d8ab175f13dc94231696c6cc088ee53",
+        "eaec47e25d19a97631077cfdc93120d7",
+        "f6033032f91927fbf4b509e514f1b489",
+        "1c1b95e2530d126570a3f9c47d9bdec6"
+      ]
+    },
+    {
+      "id": "e1afc8e474000687e3ee96c19bef8295",
+      "title": "Projects",
+      "source": "Projects e1afc8e474000687e3ee96c19bef8295.csv",
+      "fields": [
+        "Name",
+        "Project phase",
+        "Client"
+      ],
+      "rows": [
+        "f4b47104502ede811f067231c9bee2f7",
+        "9d9ee00743815ad729f762f845f50e98",
+        "b77b727d4d9f879c9e4b4687b453a48d"
+      ]
+    }
+  ],
+  "assets": {
+    "a8698a8c79fe43bbba7c": {
+      "id": "a8698a8c79fe43bbba7c",
+      "name": "handoff-note.txt",
+      "source": "handoff-note.txt",
+      "size": 69,
+      "mime": "text/plain",
+      "data": "UHVycG9zZS1jcmVhdGVkIGhhbmRvZmYgY29udGV4dC4gUHJvZHVjdGlvbiBhcnR3b3JrIGlzIG5vdCBpbmNsdWRlZC4K"
+    }
+  },
+  "warnings": [
+    "Views, formulas, permissions and automations are not established by this export. Review workflow rules explicitly."
+  ],
+  "workflow": {
+    "field": "",
+    "states": [],
+    "delivery_state": "",
+    "require_checklist": true,
+    "followup": "",
+    "confirmed": false,
+    "basis": "Not recovered: requires an explicit user declaration"
+  },
+  "tasks": [],
+  "activity": [],
+  "provenance": {
+    "mode": "local-parser",
+    "source": "delivery-linked-workspace.zip",
+    "sample": true,
+    "imported_at": "2026-11-02T08:47:29.360502+00:00",
+    "cloud_calls": [],
+    "source_files": 11,
+    "parser_workflow": {
+      "field": "",
+      "states": [],
+      "delivery_state": ""
+    },
+    "scenario": "linked-delivery"
+  },
+  "process": {
+    "version": 1,
+    "name": "Northstar delivery desk",
+    "parent_db": "e1afc8e474000687e3ee96c19bef8295",
+    "child_db": "51206b9ba9c57f2a3e2b79e2df8bdc0f",
+    "parent_field": "Project phase",
+    "child_field": "Review outcome",
+    "parent_states": [
+      "In progress",
+      "Changes requested",
+      "Delivered"
+    ],
+    "child_states": [
+      "Draft",
+      "Changes requested",
+      "Approved"
+    ],
+    "links": [
+      {
+        "child": "1d8ab175f13dc94231696c6cc088ee53",
+        "parent": "f4b47104502ede811f067231c9bee2f7"
+      },
+      {
+        "child": "eaec47e25d19a97631077cfdc93120d7",
+        "parent": "f4b47104502ede811f067231c9bee2f7"
+      },
+      {
+        "child": "f6033032f91927fbf4b509e514f1b489",
+        "parent": "9d9ee00743815ad729f762f845f50e98"
+      },
+      {
+        "child": "1c1b95e2530d126570a3f9c47d9bdec6",
+        "parent": "b77b727d4d9f879c9e4b4687b453a48d"
+      }
+    ],
+    "actions": [
+      {
+        "id": "approve",
+        "kind": "approve_child",
+        "label": "Approve item",
+        "to": "Approved",
+        "evidence_sources": [
+          "frame-3.png"
+        ]
+      },
+      {
+        "id": "revise",
+        "kind": "request_changes",
+        "label": "Request changes",
+        "to": "Changes requested",
+        "parent_to": "Changes requested",
+        "evidence_sources": [
+          "frame-2.png"
+        ]
+      },
+      {
+        "id": "handover",
+        "kind": "handover_parent",
+        "label": "Hand over",
+        "to": "Delivered",
+        "approved_state": "Approved",
+        "task": "Confirm {client} received {project}.",
+        "evidence_sources": [
+          "frame-1.png",
+          "frame-4.png"
+        ]
+      }
+    ],
+    "evidence_sources": [
+      "frame-1.png",
+      "frame-2.png",
+      "frame-3.png",
+      "frame-4.png"
+    ],
+    "unknowns": [
+      "Original permissions and external notifications are unknown."
+    ],
+    "confirmed": true,
+    "parent_revision": "Changes requested"
+  }
+}

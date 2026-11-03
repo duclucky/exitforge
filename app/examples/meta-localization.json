@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "id": "1226f9a3cf11f7954b88",
+  "name": "Localization release desk",
+  "pages": [
+    {
+      "id": "948b4dc755ad0c25d75119519744a78e",
+      "title": "Continuity context",
+      "body": "# Continuity context\n\nRelease phase is the progress field. Released means the client approved the translation and the release handoff is complete. A future local task can check receipt of each named release by its client. Original access rights and deployment automation are not in this export.",
+      "source": "Continuity context.md",
+      "database": null,
+      "properties": {},
+      "links": [],
+      "relations": [],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "2207bd0eeb964a8c1113f627c71446d3",
+      "title": "Checkout German",
+      "body": "# Checkout German\n\nClient: River Apps\n\n- [x] Prepare work\n- [ ] Final approval\n",
+      "source": "Work a3cacb75505cc02b52b47594bcb668c5/Checkout German 2207bd0eeb964a8c1113f627c71446d3.md",
+      "database": "a3cacb75505cc02b52b47594bcb668c5",
+      "properties": {
+        "Name": "Checkout German",
+        "Release phase": "Linguistic review",
+        "Client": "River Apps"
+      },
+      "links": [],
+      "relations": [],
+      "attachments": [],
+      "checklist": [
+        {
+          "id": "2207bd0eeb964a8c1113f627c71446d3-check-0",
+          "text": "Prepare work",
+          "done": true
+        },
+        {
+          "id": "2207bd0eeb964a8c1113f627c71446d3-check-1",
+          "text": "Final approval",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "83dcf58e8d77b28019fc1ec81c86561f",
+      "title": "Completed reference",
+      "body": "# Completed reference\n\n- [x] Prepare work\n- [x] Final approval\n",
+      "source": "Work a3cacb75505cc02b52b47594bcb668c5/Completed reference 83dcf58e8d77b28019fc1ec81c86561f.md",
+      "database": "a3cacb75505cc02b52b47594bcb668c5",
+      "properties": {
+        "Name": "Completed reference",
+        "Release phase": "Released",
+        "Client": "Maple Software"
+      },
+      "links": [],
+      "relations": [],
+      "attachments": [],
+      "checklist": [
+        {
+          "id": "83dcf58e8d77b28019fc1ec81c86561f-check-0",
+          "text": "Prepare work",
+          "done": true
+        },
+        {
+          "id": "83dcf58e8d77b28019fc1ec81c86561f-check-1",
+          "text": "Final approval",
+          "done": true
+        }
+      ]
+    },
+    {
+      "id": "1c6ccc82d2c0aa1242f3c22b7d88ab1c",
+      "title": "Welcome screen French",
+      "body": "# Welcome screen French\n\nClient: Maple Software\n\n- [x] Prepare work\n- [ ] Final approval\n",
+      "source": "Work a3cacb75505cc02b52b47594bcb668c5/Welcome screen French 1c6ccc82d2c0aa1242f3c22b7d88ab1c.md",
+      "database": "a3cacb75505cc02b52b47594bcb668c5",
+      "properties": {
+        "Name": "Welcome screen French",
+        "Release phase": "Translating",
+        "Client": "Maple Software"
+      },
+      "links": [],
+      "relations": [],
+      "attachments": [],
+      "checklist": [
+        {
+          "id": "1c6ccc82d2c0aa1242f3c22b7d88ab1c-check-0",
+          "text": "Prepare work",
+          "done": true
+        },
+        {
+          "id": "1c6ccc82d2c0aa1242f3c22b7d88ab1c-check-1",
+          "text": "Final approval",
+          "done": false
+        }
+      ]
+    }
+  ],
+  "databases": [
+    {
+      "id": "a3cacb75505cc02b52b47594bcb668c5",
+      "title": "Work",
+      "source": "Work a3cacb75505cc02b52b47594bcb668c5.csv",
+      "fields": [
+        "Name",
+        "Release phase",
+        "Client"
+      ],
+      "rows": [
+        "1c6ccc82d2c0aa1242f3c22b7d88ab1c",
+        "2207bd0eeb964a8c1113f627c71446d3",
+        "83dcf58e8d77b28019fc1ec81c86561f"
+      ]
+    }
+  ],
+  "assets": {},
+  "warnings": [
+    "Views, formulas, permissions and automations are not established by this export. Review workflow rules explicitly."
+  ],
+  "workflow": {
+    "field": "Release phase",
+    "states": [
+      "Translating",
+      "Linguistic review",
+      "Released"
+    ],
+    "delivery_state": "Released",
+    "followup": "Check receipt of {project} release with {client}",
+    "require_checklist": false,
+    "confirmed": false,
+    "basis": "Actual held-out Meta proposal; requires human confirmation"
+  },
+  "tasks": [],
+  "activity": [],
+  "provenance": {
+    "mode": "local-parser",
+    "source": "Localization release desk.zip",
+    "sample": true,
+    "imported_at": "2026-11-02T02:50:52.744407+00:00",
+    "cloud_calls": [
+      {
+        "provider": "Baseten",
+        "model": "meta-models/muse-spark-open-1026",
+        "operation": "interpret",
+        "elapsed_ms": 10180,
+        "usage": {
+          "prompt_tokens": 1424,
+          "completion_tokens": 2924,
+          "total_tokens": 4348,
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 384
+          },
+          "completion_tokens_details": {
+            "accepted_prediction_tokens": 2092,
+            "audio_tokens": 0,
+            "reasoning_tokens": 2585,
+            "rejected_prediction_tokens": 3739
+          }
+        }
+      },
+      {
+        "provider": "Baseten",
+        "model": "meta-models/muse-spark-open-1026",
+        "operation": "configure_view",
+        "elapsed_ms": 2674,
+        "usage": {
+          "prompt_tokens": 845,
+          "completion_tokens": 635,
+          "total_tokens": 1480,
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+          },
+          "completion_tokens_details": {
+            "accepted_prediction_tokens": 467,
+            "audio_tokens": 0,
+            "reasoning_tokens": 559,
+            "rejected_prediction_tokens": 709
+          }
+        }
+      }
+    ],
+    "source_files": 5,
+    "evaluation_case": "localization",
+    "recorded_example": {
+      "recorded_on": "2026-11-02",
+      "source": "Actual Meta open-weight operation on a synthetic localization export",
+      "new_live_calls_on_open": 0
+    },
+    "parser_workflow": {
+      "field": "",
+      "states": [],
+      "delivery_state": ""
+    }
+  },
+  "ai_review": {
+    "specification": {
+      "workspace_name": "Localization release desk",
+      "status_field": "Release phase",
+      "states": [
+        "Translating",
+        "Linguistic review",
+        "Released"
+      ],
+      "delivery_state": "Released",
+      "followup": "Check receipt of {project} release with {client}",
+      "require_checklist": false,
+      "rationale": "Release phase is the progress field per Continuity context.md; Released defined as client-approved translation and handoff complete. States bounded to observed values in Work database only. Followup is a generic local task using {project} for Name/title and {client} for Client, under 180 chars, no hardcoded values. Access rights and deployment automation explicitly noted as not in export. User confirmation required before activation.",
+      "evidence_sources": [
+        "Work a3cacb75505cc02b52b47594bcb668c5.csv",
+        "Continuity context.md",
+        "Work a3cacb75505cc02b52b47594bcb668c5/Welcome screen French 1c6ccc82d2c0aa1242f3c22b7d88ab1c.md",
+        "Work a3cacb75505cc02b52b47594bcb668c5/Checkout German 2207bd0eeb964a8c1113f627c71446d3.md",
+        "Work a3cacb75505cc02b52b47594bcb668c5/Completed reference 83dcf58e8d77b28019fc1ec81c86561f.md"
+      ],
+      "unknowns": [
+        "Original access rights not in this export",
+        "Deployment automation not in this export",
+        "Status transition automation/rules not in this export"
+      ]
+    },
+    "presentation": {
+      "primary_view": "board",
+      "template_id": "delivery",
+      "database_id": "a3cacb75505cc02b52b47594bcb668c5",
+      "explanation": "Delivery template maps Release phase states (Translating, Linguistic review, Released) to board stages for localization handoff with client follow-up."
+    },
+    "calls": [
+      {
+        "provider": "Baseten",
+        "model": "meta-models/muse-spark-open-1026",
+        "operation": "interpret",
+        "elapsed_ms": 10180,
+        "usage": {
+          "prompt_tokens": 1424,
+          "completion_tokens": 2924,
+          "total_tokens": 4348,
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 384
+          },
+          "completion_tokens_details": {
+            "accepted_prediction_tokens": 2092,
+            "audio_tokens": 0,
+            "reasoning_tokens": 2585,
+            "rejected_prediction_tokens": 3739
+          }
+        }
+      },
+      {
+        "provider": "Baseten",
+        "model": "meta-models/muse-spark-open-1026",
+        "operation": "configure_view",
+        "elapsed_ms": 2674,
+        "usage": {
+          "prompt_tokens": 845,
+          "completion_tokens": 635,
+          "total_tokens": 1480,
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+          },
+          "completion_tokens_details": {
+            "accepted_prediction_tokens": 467,
+            "audio_tokens": 0,
+            "reasoning_tokens": 559,
+            "rejected_prediction_tokens": 709
+          }
+        }
+      }
+    ],
+    "requires_user_confirmation": true,
+    "route": "baseten",
+    "template_selection": "curated_unranked",
+    "outcome": "complete"
+  },
+  "presentation": {
+    "primary_view": "board",
+    "template_id": "delivery",
+    "database_id": "a3cacb75505cc02b52b47594bcb668c5",
+    "explanation": "Delivery template maps Release phase states (Translating, Linguistic review, Released) to board stages for localization handoff with client follow-up."
+  }
+}

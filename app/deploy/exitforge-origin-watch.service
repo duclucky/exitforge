@@ -1,0 +1,22 @@
+[Unit]
+Description=Maintain ExitForge exact HTTPS origin
+After=docker.service
+Requires=docker.service
+PartOf=docker.service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /opt/exitforge/current/deploy/watch_origin.py
+Restart=always
+RestartSec=3
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/opt/exitforge/runtime
+MemoryMax=64M
+CPUQuota=5%
+UMask=0022
+
+[Install]
+WantedBy=multi-user.target

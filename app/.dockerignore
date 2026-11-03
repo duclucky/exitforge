@@ -1,0 +1,17 @@
+**
+!Dockerfile
+!requirements-web.lock
+!exitforge/
+!exitforge/*.py
+!static/
+!static/*.js
+!static/*.html
+!static/*.css
+!examples/
+!examples/*.json
+!examples/process-observations/
+!examples/process-observations/**
+**/__pycache__/
+**/*.pyc
+.env
+.venv/

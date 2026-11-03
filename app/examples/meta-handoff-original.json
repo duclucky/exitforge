@@ -1,0 +1,413 @@
+{
+  "schema_version": 1,
+  "id": "1bf1b5303c6e5e11ad23",
+  "name": "Avery's handoff desk",
+  "pages": [
+    {
+      "id": "73f93f73fb0832598ce618bc5752be00",
+      "title": "Cedar & Co",
+      "body": "# Cedar & Co\n\nThe website handoff needs editable source, deployment notes and confirmation of receipt.\n\nContact details are deliberately omitted from this fictional demo.\n",
+      "source": "Cedar & Co 73f93f73fb0832598ce618bc5752be00.md",
+      "database": null,
+      "properties": {},
+      "links": [],
+      "relations": [],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "4788986a22e9ebc013ce37fe41aca1e1",
+      "title": "Continuity brief",
+      "body": "# Continuity brief\n\nAvery is an independent designer ending an agency engagement with three client handoffs still on record.\n\nAvery kept an authorized export before shared-workspace access ended. This scenario does not recover an inaccessible account or bypass permissions.\n\nThe immediate job is to finish the Northstar handoff: find its brief, obtain final approval, record delivery and keep a local receipt-check task.\n\nAvery, the clients and this illustrative scenario are fictional. The files are purpose-created demo content, not customer evidence.\n\nNo automation or original access policy is established by this export. Any new application rule must be explicitly declared.\n",
+      "source": "Continuity brief.md",
+      "database": null,
+      "properties": {},
+      "links": [],
+      "relations": [],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "9c5bf588664491afa078a9e760d42206",
+      "title": "Brand launch",
+      "body": "# Brand launch\n\nPrepare the final logo pack, editable working files and usage guide. The client has not signed off yet.\n\n## Handoff scope\nlogo pack and usage guide.\n\n[Client context](../Northstar Studio%203c0214940731f9cb521cfa27fdbd01bd.md)\n[Included handoff notes](handoff-1.txt)\n\n## Handoff checklist\n- [x] Confirm the brief\n- [x] Prepare working files\n- [ ] Get final approval\n\nThe included TXT is a usable example handoff note; production artwork/source archives are not included in this demo.\n",
+      "source": "Handoffs 22222222222222222222222222222222/Brand launch 9c5bf588664491afa078a9e760d42206.md",
+      "database": "22222222222222222222222222222222",
+      "properties": {
+        "Name": "Brand launch",
+        "Status": "In progress",
+        "Client": "Northstar Studio",
+        "Due date": "2026-11-01",
+        "Deliverables": "logo pack and usage guide"
+      },
+      "links": [
+        {
+          "label": "Client context",
+          "href": "../Northstar Studio%203c0214940731f9cb521cfa27fdbd01bd.md",
+          "target": "3c0214940731f9cb521cfa27fdbd01bd",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Client",
+          "target": "3c0214940731f9cb521cfa27fdbd01bd",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [
+        "0b8c63084afd1d0ad642"
+      ],
+      "checklist": [
+        {
+          "id": "9c5bf588664491afa078a9e760d42206-check-0",
+          "text": "Confirm the brief",
+          "done": true
+        },
+        {
+          "id": "9c5bf588664491afa078a9e760d42206-check-1",
+          "text": "Prepare working files",
+          "done": true
+        },
+        {
+          "id": "9c5bf588664491afa078a9e760d42206-check-2",
+          "text": "Get final approval",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "603501806f470dddb6fab47c0ffc30a5",
+      "title": "Packaging system",
+      "body": "# Packaging system\n\nThe final packaging notes are already approved. Preserve the delivery record without inventing a new follow-up.\n\n## Handoff scope\napproved packaging print notes.\n\n[Client context](../Lumen Collective%20f7b8dfbfa168d024a52b945a8c56bd44.md)\n[Included handoff notes](handoff-3.txt)\n\n## Handoff checklist\n- [x] Confirm the brief\n- [x] Prepare working files\n- [x] Get final approval\n\nThe included TXT is a usable example handoff note; production artwork/source archives are not included in this demo.\n",
+      "source": "Handoffs 22222222222222222222222222222222/Packaging system 603501806f470dddb6fab47c0ffc30a5.md",
+      "database": "22222222222222222222222222222222",
+      "properties": {
+        "Name": "Packaging system",
+        "Status": "Delivered",
+        "Client": "Lumen Collective",
+        "Due date": "2026-11-03",
+        "Deliverables": "approved packaging print notes"
+      },
+      "links": [
+        {
+          "label": "Client context",
+          "href": "../Lumen Collective%20f7b8dfbfa168d024a52b945a8c56bd44.md",
+          "target": "f7b8dfbfa168d024a52b945a8c56bd44",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Client",
+          "target": "f7b8dfbfa168d024a52b945a8c56bd44",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [
+        "3c4e43810ac8ca4173cd"
+      ],
+      "checklist": [
+        {
+          "id": "603501806f470dddb6fab47c0ffc30a5-check-0",
+          "text": "Confirm the brief",
+          "done": true
+        },
+        {
+          "id": "603501806f470dddb6fab47c0ffc30a5-check-1",
+          "text": "Prepare working files",
+          "done": true
+        },
+        {
+          "id": "603501806f470dddb6fab47c0ffc30a5-check-2",
+          "text": "Get final approval",
+          "done": true
+        }
+      ]
+    },
+    {
+      "id": "4ca114c942afe7bc771bfc91f30979ef",
+      "title": "Website refresh",
+      "body": "# Website refresh\n\nThe site is ready for client review. Keep the source handoff instructions with the client context.\n\n## Handoff scope\nwebsite source and deployment notes.\n\n[Client context](../Cedar & Co%2073f93f73fb0832598ce618bc5752be00.md)\n[Included handoff notes](handoff-2.txt)\n\n## Handoff checklist\n- [x] Confirm the brief\n- [x] Prepare working files\n- [ ] Get final approval\n\nThe included TXT is a usable example handoff note; production artwork/source archives are not included in this demo.\n",
+      "source": "Handoffs 22222222222222222222222222222222/Website refresh 4ca114c942afe7bc771bfc91f30979ef.md",
+      "database": "22222222222222222222222222222222",
+      "properties": {
+        "Name": "Website refresh",
+        "Status": "Review",
+        "Client": "Cedar & Co",
+        "Due date": "2026-11-02",
+        "Deliverables": "website source and deployment notes"
+      },
+      "links": [
+        {
+          "label": "Client context",
+          "href": "../Cedar & Co%2073f93f73fb0832598ce618bc5752be00.md",
+          "target": "73f93f73fb0832598ce618bc5752be00",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Client",
+          "target": "73f93f73fb0832598ce618bc5752be00",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [
+        "15b91273132462e10489"
+      ],
+      "checklist": [
+        {
+          "id": "4ca114c942afe7bc771bfc91f30979ef-check-0",
+          "text": "Confirm the brief",
+          "done": true
+        },
+        {
+          "id": "4ca114c942afe7bc771bfc91f30979ef-check-1",
+          "text": "Prepare working files",
+          "done": true
+        },
+        {
+          "id": "4ca114c942afe7bc771bfc91f30979ef-check-2",
+          "text": "Get final approval",
+          "done": false
+        }
+      ]
+    },
+    {
+      "id": "f7b8dfbfa168d024a52b945a8c56bd44",
+      "title": "Lumen Collective",
+      "body": "# Lumen Collective\n\nThe packaging job has been delivered. Retain the approved print notes for future questions.\n\nContact details are deliberately omitted from this fictional demo.\n",
+      "source": "Lumen Collective f7b8dfbfa168d024a52b945a8c56bd44.md",
+      "database": null,
+      "properties": {},
+      "links": [],
+      "relations": [],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "3c0214940731f9cb521cfa27fdbd01bd",
+      "title": "Northstar Studio",
+      "body": "# Northstar Studio\n\nThe client needs an approved logo pack and a concise usage guide. Final approval is still pending.\n\nContact details are deliberately omitted from this fictional demo.\n",
+      "source": "Northstar Studio 3c0214940731f9cb521cfa27fdbd01bd.md",
+      "database": null,
+      "properties": {},
+      "links": [],
+      "relations": [],
+      "attachments": [],
+      "checklist": []
+    }
+  ],
+  "databases": [
+    {
+      "id": "22222222222222222222222222222222",
+      "title": "Handoffs",
+      "source": "Handoffs 22222222222222222222222222222222.csv",
+      "fields": [
+        "Name",
+        "Status",
+        "Client",
+        "Due date",
+        "Deliverables"
+      ],
+      "rows": [
+        "9c5bf588664491afa078a9e760d42206",
+        "4ca114c942afe7bc771bfc91f30979ef",
+        "603501806f470dddb6fab47c0ffc30a5"
+      ]
+    }
+  ],
+  "assets": {
+    "0b8c63084afd1d0ad642": {
+      "id": "0b8c63084afd1d0ad642",
+      "name": "handoff-1.txt",
+      "source": "Handoffs 22222222222222222222222222222222/handoff-1.txt",
+      "size": 210,
+      "mime": "text/plain",
+      "data": "Tm9ydGhzdGFyIFN0dWRpbyDigJQgbG9nbyBwYWNrIGFuZCB1c2FnZSBndWlkZQoKUHJlcGFyZSB0aGUgZmluYWwgbG9nbyBwYWNrLCBlZGl0YWJsZSB3b3JraW5nIGZpbGVzIGFuZCB1c2FnZSBndWlkZS4gVGhlIGNsaWVudCBoYXMgbm90IHNpZ25lZCBvZmYgeWV0LgoKUHVycG9zZS1jcmVhdGVkIGV4YW1wbGUgbm90ZXMsIG5vdCByZWFsIGN1c3RvbWVyIGFzc2V0cy4K"
+    },
+    "15b91273132462e10489": {
+      "id": "15b91273132462e10489",
+      "name": "handoff-2.txt",
+      "source": "Handoffs 22222222222222222222222222222222/handoff-2.txt",
+      "size": 209,
+      "mime": "text/plain",
+      "data": "Q2VkYXIgJiBDbyDigJQgd2Vic2l0ZSBzb3VyY2UgYW5kIGRlcGxveW1lbnQgbm90ZXMKClRoZSBzaXRlIGlzIHJlYWR5IGZvciBjbGllbnQgcmV2aWV3LiBLZWVwIHRoZSBzb3VyY2UgaGFuZG9mZiBpbnN0cnVjdGlvbnMgd2l0aCB0aGUgY2xpZW50IGNvbnRleHQuCgpQdXJwb3NlLWNyZWF0ZWQgZXhhbXBsZSBub3Rlcywgbm90IHJlYWwgY3VzdG9tZXIgYXNzZXRzLgo="
+    },
+    "3c4e43810ac8ca4173cd": {
+      "id": "3c4e43810ac8ca4173cd",
+      "name": "handoff-3.txt",
+      "source": "Handoffs 22222222222222222222222222222222/handoff-3.txt",
+      "size": 223,
+      "mime": "text/plain",
+      "data": "THVtZW4gQ29sbGVjdGl2ZSDigJQgYXBwcm92ZWQgcGFja2FnaW5nIHByaW50IG5vdGVzCgpUaGUgZmluYWwgcGFja2FnaW5nIG5vdGVzIGFyZSBhbHJlYWR5IGFwcHJvdmVkLiBQcmVzZXJ2ZSB0aGUgZGVsaXZlcnkgcmVjb3JkIHdpdGhvdXQgaW52ZW50aW5nIGEgbmV3IGZvbGxvdy11cC4KClB1cnBvc2UtY3JlYXRlZCBleGFtcGxlIG5vdGVzLCBub3QgcmVhbCBjdXN0b21lciBhc3NldHMuCg=="
+    }
+  },
+  "warnings": [
+    "Views, formulas, permissions and automations are not established by this export. Review workflow rules explicitly."
+  ],
+  "workflow": {
+    "field": "Status",
+    "states": [
+      "In progress",
+      "Review",
+      "Delivered"
+    ],
+    "delivery_state": "Delivered",
+    "followup": "Keep a local receipt-check task for Northstar handoff to verify delivery confirmation - proposed only, requires user confirmation before activation",
+    "require_checklist": true,
+    "confirmed": false,
+    "basis": "Model proposal; requires user confirmation"
+  },
+  "tasks": [],
+  "activity": [],
+  "provenance": {
+    "mode": "local-parser",
+    "source": "client-handoff-demo.zip",
+    "sample": true,
+    "imported_at": "2026-10-29T04:31:21.693174+00:00",
+    "cloud_calls": [
+      {
+        "provider": "Baseten",
+        "model": "meta-models/muse-spark-open-1026",
+        "operation": "interpret",
+        "elapsed_ms": 7276,
+        "usage": {
+          "prompt_tokens": 2419,
+          "completion_tokens": 2185,
+          "total_tokens": 4604,
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+          },
+          "completion_tokens_details": {
+            "accepted_prediction_tokens": 1611,
+            "audio_tokens": 0,
+            "reasoning_tokens": 1807,
+            "rejected_prediction_tokens": 2421
+          }
+        }
+      },
+      {
+        "provider": "Baseten",
+        "model": "meta-models/muse-spark-open-1026",
+        "operation": "configure_view",
+        "elapsed_ms": 3428,
+        "usage": {
+          "prompt_tokens": 873,
+          "completion_tokens": 852,
+          "total_tokens": 1725,
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+          },
+          "completion_tokens_details": {
+            "accepted_prediction_tokens": 618,
+            "audio_tokens": 0,
+            "reasoning_tokens": 763,
+            "rejected_prediction_tokens": 1027
+          }
+        }
+      }
+    ],
+    "source_files": 11,
+    "scenario": "client-handoff",
+    "recorded_example": {
+      "recorded_on": "2026-10-29",
+      "source": "Actual Meta response on the synthetic client handoff",
+      "new_live_calls_on_open": 0
+    }
+  },
+  "ai_review": {
+    "specification": {
+      "workspace_name": "Avery's handoff desk",
+      "status_field": "Status",
+      "states": [
+        "In progress",
+        "Review",
+        "Delivered"
+      ],
+      "delivery_state": "Delivered",
+      "followup": "Keep a local receipt-check task for Northstar handoff to verify delivery confirmation - proposed only, requires user confirmation before activation",
+      "require_checklist": true,
+      "rationale": "Bounded recovery from authorized export only. Status field and values taken directly from Handoffs database fields and rows. Delivery state Delivered is source-supported via Packaging system record with all checklist items done. Review and In progress are source-supported via Website refresh and Brand launch records. No automation or access policy is established by export per Continuity brief. Followup is a proposed local task only, not an external email/action, and requires explicit user confirmation before activation.",
+      "evidence_sources": [
+        "Handoffs 22222222222222222222222222222222.csv",
+        "Handoffs 22222222222222222222222222222222/Brand launch 9c5bf588664491afa078a9e760d42206.md",
+        "Handoffs 22222222222222222222222222222222/Website refresh 4ca114c942afe7bc771bfc91f30979ef.md",
+        "Handoffs 22222222222222222222222222222222/Packaging system 603501806f470dddb6fab47c0ffc30a5.md",
+        "Continuity brief.md",
+        "Northstar Studio 3c0214940731f9cb521cfa27fdbd01bd.md"
+      ],
+      "unknowns": [
+        "Automation rules for Status transitions are not defined in export",
+        "Original shared-workspace access policy and permissions",
+        "Any external notification, email, or deployment automation triggered by Status change",
+        "Whether Delivered state should auto-create follow-ups"
+      ]
+    },
+    "presentation": {
+      "primary_view": "board",
+      "template_id": "delivery",
+      "database_id": "22222222222222222222222222222222",
+      "explanation": "Board view using Handoffs Status field (In progress, Review, Delivered) from export - Delivered verified via checklist, others via source records. Bounded recovery only; no automation added. Follow-up receipt-check remains proposed pending user confirmation."
+    },
+    "calls": [
+      {
+        "provider": "Baseten",
+        "model": "meta-models/muse-spark-open-1026",
+        "operation": "interpret",
+        "elapsed_ms": 7276,
+        "usage": {
+          "prompt_tokens": 2419,
+          "completion_tokens": 2185,
+          "total_tokens": 4604,
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+          },
+          "completion_tokens_details": {
+            "accepted_prediction_tokens": 1611,
+            "audio_tokens": 0,
+            "reasoning_tokens": 1807,
+            "rejected_prediction_tokens": 2421
+          }
+        }
+      },
+      {
+        "provider": "Baseten",
+        "model": "meta-models/muse-spark-open-1026",
+        "operation": "configure_view",
+        "elapsed_ms": 3428,
+        "usage": {
+          "prompt_tokens": 873,
+          "completion_tokens": 852,
+          "total_tokens": 1725,
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0
+          },
+          "completion_tokens_details": {
+            "accepted_prediction_tokens": 618,
+            "audio_tokens": 0,
+            "reasoning_tokens": 763,
+            "rejected_prediction_tokens": 1027
+          }
+        }
+      }
+    ],
+    "requires_user_confirmation": true,
+    "route": "baseten",
+    "template_selection": "curated_unranked"
+  },
+  "presentation": {
+    "primary_view": "board",
+    "template_id": "delivery",
+    "database_id": "22222222222222222222222222222222",
+    "explanation": "Board view using Handoffs Status field (In progress, Review, Delivered) from export - Delivered verified via checklist, others via source records. Bounded recovery only; no automation added. Follow-up receipt-check remains proposed pending user confirmation."
+  }
+}

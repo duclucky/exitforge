@@ -1,0 +1,3 @@
+# Optional; not needed to run the local studio or offline application.
+# PyPI release metadata checked 2026-10-28. SDK is not installed by this MVP.
+modal==1.6.3

@@ -1,0 +1,344 @@
+{
+  "schema_version": 1,
+  "id": "3349b622da494cda5c42",
+  "name": "Independent publication desk",
+  "pages": [
+    {
+      "id": "aeb208a953f905f0e2006a194cbb8cd6",
+      "title": "Archive article",
+      "body": "# Archive article\n\n[Parent project](../Editions ffd2af551f601bec57d4a20b5859073b/Archive edition e61db7572f341e3e49bc590cf647ae1e.md)\n\nOriginal synthetic deliverable for workflow reconstruction.\n",
+      "source": "Articles d8112b1daeb39a92b87ab3e7ed19b4b9/Archive article aeb208a953f905f0e2006a194cbb8cd6.md",
+      "database": "d8112b1daeb39a92b87ab3e7ed19b4b9",
+      "properties": {
+        "Name": "Archive article",
+        "Sign-off": "Accepted",
+        "Project": "Archive edition"
+      },
+      "links": [
+        {
+          "label": "Parent project",
+          "href": "../Editions ffd2af551f601bec57d4a20b5859073b/Archive edition e61db7572f341e3e49bc590cf647ae1e.md",
+          "target": "e61db7572f341e3e49bc590cf647ae1e",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Project",
+          "target": "e61db7572f341e3e49bc590cf647ae1e",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "5d30d189a03d3965bcac081a1687cbc4",
+      "title": "Cover copy",
+      "body": "# Cover copy\n\n[Parent project](../Editions ffd2af551f601bec57d4a20b5859073b/Autumn issue 696e8743855c90147ed0a35baa8821bd.md)\n\nOriginal synthetic deliverable for workflow reconstruction.\n",
+      "source": "Articles d8112b1daeb39a92b87ab3e7ed19b4b9/Cover copy 5d30d189a03d3965bcac081a1687cbc4.md",
+      "database": "d8112b1daeb39a92b87ab3e7ed19b4b9",
+      "properties": {
+        "Name": "Cover copy",
+        "Sign-off": "Accepted",
+        "Project": "Autumn issue"
+      },
+      "links": [
+        {
+          "label": "Parent project",
+          "href": "../Editions ffd2af551f601bec57d4a20b5859073b/Autumn issue 696e8743855c90147ed0a35baa8821bd.md",
+          "target": "696e8743855c90147ed0a35baa8821bd",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Project",
+          "target": "696e8743855c90147ed0a35baa8821bd",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "898fa4bc7242f2f068ed21096d932780",
+      "title": "Feature article",
+      "body": "# Feature article\n\n[Parent project](../Editions ffd2af551f601bec57d4a20b5859073b/Autumn issue 696e8743855c90147ed0a35baa8821bd.md)\n\nOriginal synthetic deliverable for workflow reconstruction.\n",
+      "source": "Articles d8112b1daeb39a92b87ab3e7ed19b4b9/Feature article 898fa4bc7242f2f068ed21096d932780.md",
+      "database": "d8112b1daeb39a92b87ab3e7ed19b4b9",
+      "properties": {
+        "Name": "Feature article",
+        "Sign-off": "Writing",
+        "Project": "Autumn issue"
+      },
+      "links": [
+        {
+          "label": "Parent project",
+          "href": "../Editions ffd2af551f601bec57d4a20b5859073b/Autumn issue 696e8743855c90147ed0a35baa8821bd.md",
+          "target": "696e8743855c90147ed0a35baa8821bd",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Project",
+          "target": "696e8743855c90147ed0a35baa8821bd",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "3f59f63f52ffe7ffb6e95b9740e365e1",
+      "title": "Winter report",
+      "body": "# Winter report\n\n[Parent project](../Editions ffd2af551f601bec57d4a20b5859073b/Winter issue c0d9ca796c23f74e424c7fb91e3f5214.md)\n\nOriginal synthetic deliverable for workflow reconstruction.\n",
+      "source": "Articles d8112b1daeb39a92b87ab3e7ed19b4b9/Winter report 3f59f63f52ffe7ffb6e95b9740e365e1.md",
+      "database": "d8112b1daeb39a92b87ab3e7ed19b4b9",
+      "properties": {
+        "Name": "Winter report",
+        "Sign-off": "Amend",
+        "Project": "Winter issue"
+      },
+      "links": [
+        {
+          "label": "Parent project",
+          "href": "../Editions ffd2af551f601bec57d4a20b5859073b/Winter issue c0d9ca796c23f74e424c7fb91e3f5214.md",
+          "target": "c0d9ca796c23f74e424c7fb91e3f5214",
+          "external": false
+        }
+      ],
+      "relations": [
+        {
+          "field": "Project",
+          "target": "c0d9ca796c23f74e424c7fb91e3f5214",
+          "basis": "unique-title-candidate",
+          "confirmed": false
+        }
+      ],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "1f985c887d53cb185ef2f52c41760fa6",
+      "title": "Continuity note",
+      "body": "# Continuity note\n\nThis is a fictional workspace. The screenshots show selected actions, not all original automations. External notifications, permissions and behavior for projects without items are not established by the export.\n",
+      "source": "Continuity note.md",
+      "database": null,
+      "properties": {},
+      "links": [],
+      "relations": [],
+      "attachments": [],
+      "checklist": []
+    },
+    {
+      "id": "e61db7572f341e3e49bc590cf647ae1e",
+      "title": "Archive edition",
+      "body": "# Archive edition\n\nAuthorized synthetic working record.\n\n[Handoff note](../handoff-note.txt)\n",
+      "source": "Editions ffd2af551f601bec57d4a20b5859073b/Archive edition e61db7572f341e3e49bc590cf647ae1e.md",
+      "database": "ffd2af551f601bec57d4a20b5859073b",
+      "properties": {
+        "Name": "Archive edition",
+        "Publication step": "Released",
+        "Client": "Lumen Collective"
+      },
+      "links": [],
+      "relations": [],
+      "attachments": [
+        "a8698a8c79fe43bbba7c"
+      ],
+      "checklist": []
+    },
+    {
+      "id": "696e8743855c90147ed0a35baa8821bd",
+      "title": "Autumn issue",
+      "body": "# Autumn issue\n\nAuthorized synthetic working record.\n\n[Handoff note](../handoff-note.txt)\n",
+      "source": "Editions ffd2af551f601bec57d4a20b5859073b/Autumn issue 696e8743855c90147ed0a35baa8821bd.md",
+      "database": "ffd2af551f601bec57d4a20b5859073b",
+      "properties": {
+        "Name": "Autumn issue",
+        "Publication step": "Assembling",
+        "Client": "Northstar Studio"
+      },
+      "links": [],
+      "relations": [],
+      "attachments": [
+        "a8698a8c79fe43bbba7c"
+      ],
+      "checklist": []
+    },
+    {
+      "id": "c0d9ca796c23f74e424c7fb91e3f5214",
+      "title": "Winter issue",
+      "body": "# Winter issue\n\nAuthorized synthetic working record.\n\n[Handoff note](../handoff-note.txt)\n",
+      "source": "Editions ffd2af551f601bec57d4a20b5859073b/Winter issue c0d9ca796c23f74e424c7fb91e3f5214.md",
+      "database": "ffd2af551f601bec57d4a20b5859073b",
+      "properties": {
+        "Name": "Winter issue",
+        "Publication step": "Revision",
+        "Client": "Cedar & Co"
+      },
+      "links": [],
+      "relations": [],
+      "attachments": [
+        "a8698a8c79fe43bbba7c"
+      ],
+      "checklist": []
+    }
+  ],
+  "databases": [
+    {
+      "id": "d8112b1daeb39a92b87ab3e7ed19b4b9",
+      "title": "Articles",
+      "source": "Articles d8112b1daeb39a92b87ab3e7ed19b4b9.csv",
+      "fields": [
+        "Name",
+        "Sign-off",
+        "Project"
+      ],
+      "rows": [
+        "898fa4bc7242f2f068ed21096d932780",
+        "5d30d189a03d3965bcac081a1687cbc4",
+        "3f59f63f52ffe7ffb6e95b9740e365e1",
+        "aeb208a953f905f0e2006a194cbb8cd6"
+      ]
+    },
+    {
+      "id": "ffd2af551f601bec57d4a20b5859073b",
+      "title": "Editions",
+      "source": "Editions ffd2af551f601bec57d4a20b5859073b.csv",
+      "fields": [
+        "Name",
+        "Publication step",
+        "Client"
+      ],
+      "rows": [
+        "696e8743855c90147ed0a35baa8821bd",
+        "c0d9ca796c23f74e424c7fb91e3f5214",
+        "e61db7572f341e3e49bc590cf647ae1e"
+      ]
+    }
+  ],
+  "assets": {
+    "a8698a8c79fe43bbba7c": {
+      "id": "a8698a8c79fe43bbba7c",
+      "name": "handoff-note.txt",
+      "source": "handoff-note.txt",
+      "size": 69,
+      "mime": "text/plain",
+      "data": "UHVycG9zZS1jcmVhdGVkIGhhbmRvZmYgY29udGV4dC4gUHJvZHVjdGlvbiBhcnR3b3JrIGlzIG5vdCBpbmNsdWRlZC4K"
+    }
+  },
+  "warnings": [
+    "Views, formulas, permissions and automations are not established by this export. Review workflow rules explicitly."
+  ],
+  "workflow": {
+    "field": "",
+    "states": [],
+    "delivery_state": "",
+    "require_checklist": true,
+    "followup": "",
+    "confirmed": false,
+    "basis": "Not recovered: requires an explicit user declaration"
+  },
+  "tasks": [],
+  "activity": [],
+  "provenance": {
+    "mode": "local-parser",
+    "source": "editorial-linked-workspace.zip",
+    "sample": true,
+    "imported_at": "2026-11-02T08:47:29.362797+00:00",
+    "cloud_calls": [],
+    "source_files": 11,
+    "parser_workflow": {
+      "field": "",
+      "states": [],
+      "delivery_state": ""
+    },
+    "scenario": "linked-editorial"
+  },
+  "process": {
+    "version": 1,
+    "name": "Independent publication desk",
+    "parent_db": "ffd2af551f601bec57d4a20b5859073b",
+    "child_db": "d8112b1daeb39a92b87ab3e7ed19b4b9",
+    "parent_field": "Publication step",
+    "child_field": "Sign-off",
+    "parent_states": [
+      "Assembling",
+      "Revision",
+      "Released"
+    ],
+    "child_states": [
+      "Writing",
+      "Amend",
+      "Accepted"
+    ],
+    "links": [
+      {
+        "child": "898fa4bc7242f2f068ed21096d932780",
+        "parent": "696e8743855c90147ed0a35baa8821bd"
+      },
+      {
+        "child": "5d30d189a03d3965bcac081a1687cbc4",
+        "parent": "696e8743855c90147ed0a35baa8821bd"
+      },
+      {
+        "child": "3f59f63f52ffe7ffb6e95b9740e365e1",
+        "parent": "c0d9ca796c23f74e424c7fb91e3f5214"
+      },
+      {
+        "child": "aeb208a953f905f0e2006a194cbb8cd6",
+        "parent": "e61db7572f341e3e49bc590cf647ae1e"
+      }
+    ],
+    "actions": [
+      {
+        "id": "approve",
+        "kind": "approve_child",
+        "label": "Approve item",
+        "to": "Accepted",
+        "evidence_sources": [
+          "frame-3.png"
+        ]
+      },
+      {
+        "id": "revise",
+        "kind": "request_changes",
+        "label": "Request changes",
+        "to": "Amend",
+        "parent_to": "Revision",
+        "evidence_sources": [
+          "frame-2.png"
+        ]
+      },
+      {
+        "id": "handover",
+        "kind": "handover_parent",
+        "label": "Hand over",
+        "to": "Released",
+        "approved_state": "Accepted",
+        "task": "Confirm {client} received {project}.",
+        "evidence_sources": [
+          "frame-1.png",
+          "frame-4.png"
+        ]
+      }
+    ],
+    "evidence_sources": [
+      "frame-1.png",
+      "frame-2.png",
+      "frame-3.png",
+      "frame-4.png"
+    ],
+    "unknowns": [
+      "Original permissions and external notifications are unknown."
+    ],
+    "confirmed": true,
+    "parent_revision": "Revision"
+  }
+}
